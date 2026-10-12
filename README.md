@@ -1,6 +1,6 @@
 # Password Strength vs. Real Attacks
 
-CIS256 Honors Project, Fall 2026 — Ryan Anderson
+CIS256 Honors Project, Fall 2026, Ryan Anderson
 Instructor: Professor McClellan
 
 ## Research question
