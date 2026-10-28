@@ -4,3 +4,6 @@
 # Microsoft Office lock/temp files
 ~$*.docx
 ~$*.doc
+
+# Word docs (keep local, not pushed)
+*.docx
